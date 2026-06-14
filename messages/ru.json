@@ -1,0 +1,19 @@
+{
+  "Common": {
+    "title": "Compass Management",
+    "description": "Платформа для тестирования сотрудников",
+    "dashboard": "Дашборд",
+    "results": "Результаты",
+    "admin": "Админ"
+  },
+  "Auth": {
+    "login": "Войти",
+    "logout": "Выйти"
+  },
+  "Test": {
+    "start": "Начать тест",
+    "submit": "Отправить",
+    "next": "Далее",
+    "prev": "Назад"
+  }
+}

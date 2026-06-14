@@ -1,0 +1,19 @@
+{
+  "Common": {
+    "title": "Compass Management",
+    "description": "Xodimlarni testlash platformasi",
+    "dashboard": "Dashboard",
+    "results": "Natijalar",
+    "admin": "Admin"
+  },
+  "Auth": {
+    "login": "Kirish",
+    "logout": "Chiqish"
+  },
+  "Test": {
+    "start": "Testni boshlash",
+    "submit": "Yuborish",
+    "next": "Keyingisi",
+    "prev": "Orqaga"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Common": {
+    "title": "Compass Management",
+    "description": "Employee testing platform",
+    "dashboard": "Dashboard",
+    "results": "Results",
+    "admin": "Admin"
+  },
+  "Auth": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "Test": {
+    "start": "Start Test",
+    "submit": "Submit",
+    "next": "Next",
+    "prev": "Previous"
+  }
+}
